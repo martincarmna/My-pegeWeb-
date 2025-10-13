@@ -9,7 +9,7 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: white;
-    background-image: url(/imagenes/image.png);
+    background-image: url('../imagenes/fondo.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover ;
